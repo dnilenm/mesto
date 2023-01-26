@@ -1,0 +1,7 @@
+@media screen and (max-width: 700px) {
+    .profile__info_edit-button_icon{
+       max-width: 7.5px;
+       max-height: 7.5px;
+       
+    }
+}

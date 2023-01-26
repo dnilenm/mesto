@@ -1,0 +1,9 @@
+.element__block{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 21px;
+    margin-right: 15px;
+    align-items: center;
+    max-height: 23px;
+    
+}

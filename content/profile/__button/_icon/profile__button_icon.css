@@ -1,0 +1,9 @@
+.profile__button_icon{
+    margin: auto;
+}
+@media screen and (max-width: 400px) {
+    .profile__button_icon{
+     width: 16px;
+     height: 16px;   
+    }
+}

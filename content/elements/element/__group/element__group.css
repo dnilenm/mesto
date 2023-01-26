@@ -1,0 +1,6 @@
+.element__group{
+    margin: 5px 5px 2px 30px;
+    min-width: 22px;
+    min-height: 19px;
+    cursor: pointer;
+}
