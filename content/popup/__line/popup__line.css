@@ -1,0 +1,12 @@
+.popup__line{
+    max-width: 100%;
+    margin-bottom:30px;
+}
+.popup__line:nth-of-type(2n){
+    margin-bottom:48px;
+}
+@media screen and (max-width:320px) {
+    .popup__line:nth-of-type(2n){
+        margin-bottom:45px;
+    }   
+}

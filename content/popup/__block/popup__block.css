@@ -1,0 +1,16 @@
+.popup__block{
+    margin: 34px 36px 37px;
+    display: flex;
+    flex-direction: column;
+   overflow: visible;
+   justify-content: flex-start;
+    
+}
+input::va{
+    min-height: 100%;
+    }
+@media screen and (max-width:500px) {
+    .popup__block{
+       margin: 25px 22px;
+    }   
+}

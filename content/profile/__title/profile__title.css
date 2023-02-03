@@ -4,6 +4,7 @@
     line-height: 1.14;
     margin: 0;
     max-height: 39px;
+    justify-self: start;
 }
 @media screen and (max-width: 850px) {
     .profile__title{

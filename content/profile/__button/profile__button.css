@@ -6,6 +6,11 @@
     box-sizing: border-box;
     margin: auto 0 auto auto;
     display: flex;
+    cursor: pointer;
+    transition: opacity 1s;
+}
+.profile__button:hover{
+    opacity: 0.5;
 }
 @media screen and (max-width: 850px) {
     .profile__button{
