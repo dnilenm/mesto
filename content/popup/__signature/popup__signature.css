@@ -1,0 +1,8 @@
+.popup__signature{
+    font-size: 12px;
+    line-height: 1.167;
+    font-weight: normal;
+    color: white;
+    margin: 10px 0 0 0;
+    align-self: flex-start;
+}
